@@ -4,8 +4,10 @@ Low-cost indoor localization system for multi-robot applications using **ESP32 U
 
 The system combines **UWB trilateration** with **IMU data through a Kalman Filter**, while using the **Channel Impulse Response (CIR)** of the DW3000 to detect potentially degraded **NLOS (Non-Line-of-Sight)** measurements and reduce their influence on the localization estimate.
 
-<img width="966" height="582" alt="Capture d&#39;écran 2026-09-19 144622" src="https://github.com/user-attachments/assets/d56bd0e6-a7c3-418b-9b7d-3c7851d0beb4" />
-Visualization of the finale of the sytem working.
+[Screencast from 20-07-2026 19_00_32.webm](https://github.com/user-attachments/assets/b7627d6d-0055-442f-8f0c-dadf495ee641)
+
+
+Visualization of the final of the sytem working.
 
 ---
 
